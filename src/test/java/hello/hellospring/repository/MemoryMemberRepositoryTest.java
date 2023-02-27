@@ -5,6 +5,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.origin.SystemEnvironmentOrigin;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
